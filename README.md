@@ -1,0 +1,1 @@
+# Pykan_MNIST_cognitive_project
